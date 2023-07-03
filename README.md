@@ -3,10 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushhh231&label=Profile%20views&color=0e75b6&style=flat" alt="ayushhh231" /> </p>
 
-<p>Currently Working On Web Development</p>
-💬 Ask me about Front End
-- 📫 How to reach me **ayushmaansharma633@gmail.com**
-
+<p>&#128218 Currently Working On Web Development</p>
+💬 Ask me about Front End <br>
+- 📫 How to reach me **ayushmaansharma633@gmail.com** <br>
 - ⚡ Fun fact **creating meme**
 
 <h3 align="left">Connwcr With Me:</h3>

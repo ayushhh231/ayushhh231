@@ -1,4 +1,4 @@
-
+![logo](https://github.com/ayushhh231/ayushhh231/blob/main/header-image.png)
 <h1 align="center">Hola 👋, I'm Ayushmaan Sharma</h1>
 <img  src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" align="right" alt="coding" width="300">
 

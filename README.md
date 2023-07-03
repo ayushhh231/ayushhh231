@@ -1,5 +1,5 @@
 ![logo](https://github.com/ayushhh231/ayushhh231/blob/main/header-image.png)
-<h1 align="center">Hola 👋, I'm Ayushmaan Sharma</h1>
+<h1 align="center">Hey 👋, I'm Ayushmaan Sharma</h1>
 <img  src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" align="right" alt="coding" width="300">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushhh231&label=Profile%20views&color=0e75b6&style=flat" alt="ayushhh231" /> </p>
